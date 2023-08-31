@@ -24,6 +24,6 @@ I was able to acheieve about 72% accuracy - just low from the ideal 75%.
 
 What steps did you take in your attempts to increase model performance?
 
-I adjusted the number of neurons hoping to speed up the model and reduce loss. I also adjusted the number of epochs hoping to achieve optimal weight coefficients.
+I adjusted the number of neurons hoping to speed up the model and reduce loss. I added another layer to consider more interactions between variables. I also adjusted the number of epochs hoping to achieve optimal weight coefficients.
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
