@@ -1,4 +1,5 @@
 Overview of the analysis: The purpose of this analysis is to create a tool for the nonprofit foundation, Alphabet Soup that can help it select applicants for funding with the best chance of success in their ventures
+
 Results: Using bulleted lists and images to support your answers, address the following questions:
 
 Data Preprocessing
@@ -26,4 +27,4 @@ What steps did you take in your attempts to increase model performance?
 
 I adjusted the number of neurons hoping to speed up the model and reduce loss. I added another layer to consider more interactions between variables. I also adjusted the number of epochs hoping to achieve optimal weight coefficients.
 
-Summary: The results of the deep learning model are that even when adjusting neurons, layers, and activation functions, the model struggled to achieve target model performance. It continued to be just short at about 72%. A different model that could be used to solve this problem is a Random Forest model because they are well suited for classification tasks
+Summary: The results of the deep learning model are that even when adjusting neurons, layers, and activation functions, the model struggled to achieve target model performance. It continued to be just short at about 72%. A different model that could be used to solve this problem is a Random Forest model because they are well suited for classification tasks.
